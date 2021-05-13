@@ -1,0 +1,15 @@
+command
+streamon
+delay 2
+takeoff
+delay 2
+mon
+up 400
+delay 2
+jump 500 0 400 100 180 m1 m2
+delay 2
+jump 500 0 400 100 180 m2 m1
+delay 4
+streamoff
+delay 1
+land
