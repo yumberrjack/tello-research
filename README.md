@@ -1,4 +1,4 @@
-# tello-research
+# Tello EDU Security Drone Research // Musser Undergrad Research
 
 This repo includes all the code I have written over the semester for research with the Tello EDU drone.
 I have attepted to create a security-type system, that scans the perimeter of a household. My first idea
