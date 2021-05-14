@@ -24,3 +24,10 @@ Once the proper dependencies are installed (python 3, node.js, and FFMpeg) I was
 1. When running npm install when in the tello-video-receive-udp-port folder, the command line resonds with error: "npm WARN tello-video-nodejs-websockets@1.0.0 No repository field." This error can be ignored as long as its followed by: "added 1 package from 1 contributor and audited 1 package in 0.456s found 0 vulnerabilities"
 2. You do not need to install the Chocolatey or Visual Studio dependencies when installing Node.js, it failed for me and everything still ran perfectly.
 3. These notes are to inform you on some things I learned when creating this security feed implementation. All guides in this read me should be followed for what operating system you are using. The notes I have made could specifically be for Windows OS only.
+
+# References
+1. https://www.ryzerobotics.com/tello-edu/downloads
+2. https://www.65drones.com/pages/tello-operation-guide
+3. https://tello.oneoffcoder.com/python-auto-flight.html
+4. https://github.com/dbaldwin/tello-video-nodejs-websockets
+5. https://www.mathworks.com/help/supportpkg/ryzeio/ug/enabling-video-receive-udp-port.html
